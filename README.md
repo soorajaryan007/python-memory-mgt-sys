@@ -1,4 +1,4 @@
-# MemoryManagementSimulation
+## Memory Management Simulation
 A memory management system that allocates and deallocates memory for processes using fixed partitioning, paging, or segmentation.
 Developing a memory management simulation is an excellent way to understand core OS concepts like memory allocation, fragmentation, and management techniques like partitioning, paging, and segmentation. Below is a step-by-step guide to building a simulation of a memory manager in Python.
 
